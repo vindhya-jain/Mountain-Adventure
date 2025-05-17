@@ -17,16 +17,20 @@ Explore a stylized mountain world, collect coins, and enjoy smooth character ani
 ---
 
 ### Screenshots
+<p align="center">
+  <img src="Images/image1.png" alt="Pipeline Overview" width="800"/>
+</p>
 
-<!-- Add GIFs or images here -->
-![Gameplay](path/to/gameplay.gif)
-![Main Menu](path/to/menu.png)
+<p align="center">
+  <img src="Images/image3.gif" alt="Pipeline Overview" width="500"/>
+  <img src="Images/image5.gif" alt="Pipeline Overview" width="305"/>
+</p>
 
 ---
 
 ###  Gameplay Demo
 
-[🎬 Watch on Google Drive]([https://drive.google.com/file/d/1SMl8SLhhCqXT4Ms5WMAmg5kC0bbvWiJi/view?usp=sharing](https://drive.google.com/file/d/1SMl8SLhhCqXT4Ms5WMAmg5kC0bbvWiJi/view?usp=sharing))
+[🎬 Watch on Google Drive](https://drive.google.com/file/d/1SMl8SLhhCqXT4Ms5WMAmg5kC0bbvWiJi/view?usp=sharing)
 
 ---
 
@@ -34,11 +38,3 @@ Explore a stylized mountain world, collect coins, and enjoy smooth character ani
 
 - Unity 2021.3 or newer (URP)
 - Terrain Tools & Cinemachine packages
-
----
-
-### Project Structure
-
-- `Assets/Scripts` – Player movement, coin logic
-- `Assets/Animations` – Animator and blend trees
-- `Assets/UI` – Main menu and coin display
